@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
+baseURL = "https://indochinesekitchen.github.io/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
 theme = "restaurant-hugo"
